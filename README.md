@@ -1,4 +1,4 @@
-<h1 align="center">zajchu1337 - Software Engineer by day, MultiVersus enthusiast</h1>
+<h1 align="center">zajchu</h1>
 <h3 align="center">Fluent in Rust, Java, C#, C++</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zajchu1337&show_icons=true&locale=en&layout=compact" alt="zajchu1337" /></p>
 
